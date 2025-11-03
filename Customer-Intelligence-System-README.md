@@ -23,7 +23,7 @@ It enables:
 **📊Dashboard Snapshot**
 
 <img width="719" height="602" alt="Screenshot 2025-10-29 at 10 54 41 AM" src="https://github.com/user-attachments/assets/f354f6e7-4107-456a-9642-0dfb841a11da" />
-<br></br>
+
 **💬 Sample AI Notifications**
 
 *1. Restock gently and get your favorite Classic Vanilla Yogurt back into your kitchen tonight.*
