@@ -41,4 +41,4 @@ It enables:
 
 ### Full Article  
 Read the detailed project explanation here:  
-👉 [Read on Medium](#)
+👉 [Read on Medium](https://medium.com/@tanmay.unhale.9/building-a-unified-data-layer-for-analytics-and-ai-integration-30b715810d72)
