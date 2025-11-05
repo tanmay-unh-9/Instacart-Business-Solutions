@@ -1,6 +1,9 @@
 
 # Customer Intelligence System
 
+### Tech Stack  
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)    ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)    ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  ![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=sql&logoColor=white)
+
 ### Overview  
 The **Customer Intelligence System** showcases how a unified data foundation can power both **analytics and AI-driven engagement** for a retail platform like Instacart.  
 It combines **customer segmentation analytics** with **AI-based retention personalization**, demonstrating how structured data and automation together enhance customer understanding and enable an AI-based solution to increase engagement.
@@ -39,6 +42,3 @@ It enables:
 ### Full Article  
 Read the detailed project explanation here:  
 👉 [Read on Medium](#)
-
-### Tech Stack  
-Databricks • Azure Data Lake • Python • SQL • OpenAI API  
