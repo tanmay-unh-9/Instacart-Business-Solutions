@@ -25,7 +25,8 @@ It enables:
 
 **📊Dashboard Snapshot**
 
-<img width="719" height="602" alt="Screenshot 2025-10-29 at 10 54 41 AM" src="https://github.com/user-attachments/assets/f354f6e7-4107-456a-9642-0dfb841a11da" />
+<img width="750" height="620" alt="Screenshot 2025-11-06 at 11 21 20 AM" src="https://github.com/user-attachments/assets/5eb8f706-6775-4c79-989c-b2b24c7d50c3" />
+
 
 **💬 Sample AI Notifications**
 
